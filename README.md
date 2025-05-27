@@ -9,7 +9,12 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 ## Insights Deep-Dive
 
 ### Procurement & Supplier Performance
-  - **Office supplies** rank as the top item category for all three suppliers: **Alpha_Inc, Beta_Supplies, and Delta_Logistics.**
+  - **Office supplies** rank as the top item category for all three suppliers: **Alpha_Inc, Beta_Supplies, and Delta_Logistics.** 
+  - Out of the 777 total orders in the dataset, Delta_Logistics is the most frequently used supplier with 171 orders, while Alpha_Inc has the fewest at 141.
+  - Although the difference of 30 orders may seem small, it raises the question of why a notable number of customers are choosing other suppliers over Alpha_Inc.
+  - The delivery time across all suppliers ranges from as short as 1 day to as long as 20 days. A brief review of the data suggests that **Beta_Supplies** is consistently the supplier associated with the longest delivery time of 20 days.
+
+
 
 ### Financial Effiency
 
