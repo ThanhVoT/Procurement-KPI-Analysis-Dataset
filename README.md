@@ -17,6 +17,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 
 ### Financial Effiency
+  - Between 2022 and 2023, Epsilon_Group generated the highest sales revenue among all suppliers, totaling **$9,192,269.28.** In contrast, Alpha_Inc had the lowest sales revenue, bringing in just over **$7 million.**
 
 ### Timelines & Fulfillment
 
