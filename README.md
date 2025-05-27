@@ -9,6 +9,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 ## Insights Deep-Dive
 
 ### Procurement & Supplier Performance
+  - **Office supplies** rank as the top item category for all three suppliers: **Alpha_Inc, Beta_Supplies, and Delta_Logistics.**
 
 ### Financial Effiency
 
