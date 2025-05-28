@@ -18,7 +18,9 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 ### Financial Effiency
   - Between 2022 and 2023, Epsilon_Group generated the highest sales revenue among all suppliers, totaling **$9,192,269.28.** In contrast, Alpha_Inc had the lowest sales revenue, bringing in just over **$7 million.**
-  - Breaking down the year further, 
+  - Breaking down the year further, it is clear that Beta_Supplies quarterly revenue significantly improves from 2022 to 2023.  Their average improvement per quarter is **$372,388.65.**
+  - The only supplier whose total revenue did not change is **Delta_Logistics.** Their quarterly revenue are consistently throughout 2022 and 2023 with very minor changes.
+  - 
 
 ### Timelines & Fulfillment
 
