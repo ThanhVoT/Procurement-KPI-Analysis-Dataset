@@ -28,8 +28,11 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
     - Alpha_Inc offers the lowest discounted price for **Raw Materials** at **$15.09** per unit. 
 
 
-### Timelines & Fulfillment
-
 ### Quality Control
+  - Delta_Logistics have the highest defective rate of **41.04%.**
+  - 
+
+
+
 
 ### Compliance & Risk
