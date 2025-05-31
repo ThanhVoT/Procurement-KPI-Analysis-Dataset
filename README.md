@@ -32,7 +32,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
   - Delta_Logistics have the highest defective rate of **41.04%.**
   - **Beta_Supplies & Delta_Logistics** both has the highest percentage of defective units of over **10%.**
   - **Alpha_Inc** has the highest defective ratio of over **35%** on a single order.
-  - **Epsilon_Group** only has 4 orders with a defective rate over **%5**. 
+  - **Epsilon_Group** is the only supplier with exactly 4 orders, each having a defective rate over **5%.**
 
 
 
