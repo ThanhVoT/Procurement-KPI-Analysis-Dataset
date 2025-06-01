@@ -38,3 +38,4 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 
 ### Compliance & Risk
+  - Among all suppliers, Delta_Logistics has the highest number of orders at **171**. However, it also has the most non-compliant orders — **67**, which means nearly **40%** of its orders are non-compliant.
