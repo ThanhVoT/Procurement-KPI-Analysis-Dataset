@@ -43,7 +43,8 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 ## Recommendations
 Maximizing Cost Savings
-  - **Negotiating prices with suppliers:** Analyze suppliers that gave the most discount on certain items and negotiate with them to minimize spending while maximizing value. 
+  - **Negotiating prices with suppliers:** Analyze suppliers that gave the most discount on certain items and negotiate with them to minimize spending while maximizing value.
+  - **Prioritizing lowest cost over largest discount:** Counterintuative to what was said above, supplier such as Delta_Logistics whose discount for item type **MRO** is ranked the highest at **$15.40**
 
 
 ## Assumptions
