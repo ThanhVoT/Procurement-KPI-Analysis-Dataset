@@ -44,7 +44,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 ## Recommendations
 Maximizing Cost Savings
   - **Negotiating prices with suppliers:** Analyze suppliers that gave the most discount on certain items and negotiate with them to minimize spending while maximizing value.
-  - **Prioritizing lowest cost over largest discount:** Counterintuative to what was said above, supplier such as Delta_Logistics whose discount for item type **MRO** is ranked the highest at **$15.40**
+  - **Prioritizing lowest cost over largest discount:** Contrary to believes, suppliers like Delta_Logistics, who offer the highest discount on MRO items, actually have the highest prices compared to competitors. In contrast, Alpha_Inc, despite offering the lowest discount, provides the most competitive pricing at just **$81.68** per unit, whereas Delta_Logistics charges **$93.35** even after the discount.
 
 
 ## Assumptions
