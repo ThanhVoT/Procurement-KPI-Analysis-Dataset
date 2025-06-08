@@ -49,6 +49,7 @@ Maximizing Cost Savings
 
 Reducing Risk in Supplier Selection
   - **Choosing the correct suppliers:** Suppliers like Alpha_Inc, Gamma_Co, and Epsilon_Group should be prioritized over Beta_Supplies and Delta_Logistics when selecting who to buy from. Out of 183 instances where defective units exceeded 10%, Beta and Delta accounted for 181 of them.
+  - **
   
  
 ## Assumptions
