@@ -42,22 +42,26 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 
 ## Recommendations
+
+
 Maximizing Cost Savings
   - **Negotiating prices with suppliers:** Analyze suppliers that gave the most discount on certain items and negotiate with them to minimize spending while maximizing value.
   - **Prioritizing lowest cost over largest discount:** Contrary to believes, suppliers like Delta_Logistics, who offer the highest discount on MRO items, actually have the highest prices compared to competitors. In contrast, Alpha_Inc, despite offering the lowest discount, provides the most competitive pricing at just **$81.68** per unit, whereas Delta_Logistics charges **$93.35** even after the discount.
 
+***
 
 Reducing Risk in Supplier Selection
   - **Choosing the Correct Suppliers:** Suppliers like Alpha_Inc, Gamma_Co, and Epsilon_Group should be prioritized over Beta_Supplies and Delta_Logistics when selecting who to buy from. Out of 183 instances where defective units exceeded 10%, Beta and Delta accounted for 181 of them.
   - **Target Regularly Compliant Suppliers:** Analyze suppliers with a high percentage of non-compliant orders to narrow down the selection pool. This helps minimize the risk of future non-compliance and contributes to cost savings.
 
+***
 
 Analyzing Suppliers' Performance
   - **Focus on High-Performing Supplier:** Prioritize suppliers that showed significant improvement from 2022 to 2023, as this is a sign of customers' trust which can indicate better product quality or more competitive pricing.
   - **Identify Consistent Supplier:** Maintain relationships with suppliers demonstrating consistent performance, as steady demand often indicates reliable product quality and dependable service.
   - **Improve Delivery Efficiency:** Evaluate suppliers with extended delivery times alongside the item categories they frequently delay. This will help minimize wait times and identify which suppliers can reliably fulfill urgent orders.
 
-
+***
 
 
 
