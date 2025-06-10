@@ -66,4 +66,4 @@ Analyzing Suppliers' Performance
 
  
 ## Assumptions
-  - Order Status: There were 217 orders which were not delivered, they were either **Partially Delivered**, **Pending**, or **Cancelled**. All which requires further examination. 
+  - **Order Status:** There were 217 orders which were not delivered, they were either **Partially Delivered**, **Pending**, or **Cancelled**. All which requires further examination. 
