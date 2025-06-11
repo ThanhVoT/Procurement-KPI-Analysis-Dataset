@@ -67,6 +67,6 @@ Analyzing Suppliers' Performance
  
 ## Assumptions
   - **Order Status:** There were 217 orders which were not delivered, they were either **Partially Delivered**, **Pending**, or **Cancelled**. All which requires further examination.
-  - Shift in Supplier Demand:
+  - **Shift in Supplier Demand:**
     - While customer names are not visible, it’s reasonable to assume that some have already switched suppliers or are likely to do so soon.
     - Epsilon_Group may be a top choice for these customers, as they have the lowest defect rate and generated the highest revenue between 2022 and 2023.
