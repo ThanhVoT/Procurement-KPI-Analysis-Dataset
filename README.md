@@ -70,3 +70,4 @@ Analyzing Suppliers' Performance
   - **Shift in Supplier Demand:**
     - While customer names are not visible, it’s reasonable to assume that some have already switched suppliers or are likely to do so soon.
     - Epsilon_Group may be a top choice for these customers, as they have the lowest defect rate and generated the highest revenue between 2022 and 2023.
+  - **Price Disparities Among Suppliers:** Multiple suppliers offer different prices for the same product types. However, there appears to be a correlation between the size of the discount offered and the actual price of the item.
