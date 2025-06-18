@@ -18,7 +18,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 ### Financial Effiency
   - Between 2022 and 2023, Epsilon_Group generated the highest sales revenue among all suppliers, totaling **$9,192,269.28.** In contrast, Alpha_Inc had the lowest sales revenue, bringing in just over **$7 million.**
-  - Breaking down the year further, it is clear that Beta_Supplies quarterly revenue significantly improves from 2022 to 2023.  Their average improvement per quarter is **$372,388.65.**
+  - Breaking down the year further, it is clear that Beta_Supplies quarterly revenue significantly improves from 2022 to 2023. Their average improvement per quarter is **$372,388.65.**
   - The only supplier whose total revenue did not change is **Delta_Logistics.** Their quarterly revenue are consistently throughout 2022 and 2023 with very minor changes.
   - These are the suppliers that give the most discount based on **item_category:**
     - Alpha_Inc offers the lowest discounted price for **Electronics** at **$15.56** per unit.
@@ -71,4 +71,7 @@ Analyzing Suppliers' Performance
     - While customer names are not visible, it’s reasonable to assume that some have already switched suppliers or are likely to do so soon.
     - Epsilon_Group may be a top choice for these customers, as they have the lowest defect rate and generated the highest revenue between 2022 and 2023.
   - **Price Disparities Among Suppliers:** Multiple suppliers offer different prices for the same product types. However, there appears to be a correlation between the size of the discount offered and the actual price of the item.
-    - **Choose Suppliers Offering Best Overall Price:** Ideally, we would get the best deals per unit through one supplier so that we dont have to deal with the hassel of negotiating with many. However, that will never be the case so instead, we go for the second best options. Knowing 
+    - **Choose Suppliers Offering Best Overall Price:** Ideally, we would get the best deals per unit through one supplier so that we dont have to deal with the hassel of negotiating with many. However, that will never be the case so instead, we go for the second best options. With the provided data, we can which supplier are selling way over the market price and which can give us the best deal.
+      - Best Improved: Beta_Supplies average around $370,000 per quarter and are continiously rising.
+      - Best Price Per Unit: "show the pictures of all the best price in SQL"
+      - 
