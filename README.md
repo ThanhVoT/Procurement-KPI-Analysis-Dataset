@@ -29,7 +29,7 @@ This dataset contains over 700 real-world purchases orders from the year 2022 - 
 
 
 ### Quality Control
-  - Delta_Logistics have the highest defective rate of **41.04%.**
+  - **Delta_Logistics** have the highest defective rate of **41.04%.**
   - **Beta_Supplies & Delta_Logistics** both has the highest percentage of defective units of over **10%.**
   - **Alpha_Inc** has the highest defective ratio of over **35%** on a single order.
   - **Epsilon_Group** is the only supplier with exactly 4 orders, each having a defective rate over **5%.**
@@ -71,7 +71,7 @@ Analyzing Suppliers' Performance
     - While customer names are not visible, it’s reasonable to assume that some have already switched suppliers or are likely to do so soon.
     - Epsilon_Group may be a top choice for these customers, as they have the lowest defect rate and generated the highest revenue between 2022 and 2023.
   - **Price Disparities Among Suppliers:** Multiple suppliers offer different prices for the same product types. However, there appears to be a correlation between the size of the discount offered and the actual price of the item.
-    - **Choose Suppliers Offering Best Overall Price:** Ideally, we would get the best deals per unit through one supplier so that we dont have to deal with the hassel of negotiating with many. However, that will never be the case so instead, we go for the second best options. With the provided data, we can which supplier are selling way over the market price and which can give us the best deal.
+    - **Choose Suppliers Offering Best Overall Price:** Ideally, we would get the best deals per unit through one supplier so that we dont have to deal with the hassel of negotiating with many. However, that will never be the case so instead, we go for the second best options. With the provided data, we can see which supplier are selling way over the market price and which can give us the best deal.
       - Best Improved: Beta_Supplies average around $370,000 per quarter and are continiously rising.
       - Best Price Per Unit: "show the pictures of all the best price in SQL"
-      - 
+      - Best Overall: Overall, it seem like the best supplier to go with at the momment is Epsilon_Group with their consistent outstanding performance and low defective rate.
