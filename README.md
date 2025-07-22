@@ -75,4 +75,4 @@ Analyzing Suppliers' Performance
       - Best Improved: Beta_Supplies average around $370,000 per quarter and are continiously rising.
       - Best Price Per Unit: "show the pictures of all the best price in SQL"
       - Best Overall: Overall, it seem like the best supplier to go with at the momment is Epsilon_Group with their consistent outstanding performance and low defective rate.
-    - **Unmatched Unit Records:**
+    - **Unmatched Unit Records:** There are a total of 136 transactions with no corresponding entries in the defective_units column. This discrepancy may be due to missing data, unreported issues by customers, or the absence of defective units in those orders. Regardless of the reason, this impacts SQL queries by returning NULL values in the results.
